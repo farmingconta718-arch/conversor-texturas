@@ -1,0 +1,2 @@
+android:extractNativeLibs="true"
+android:requestLegacyExternalStorage="true"
